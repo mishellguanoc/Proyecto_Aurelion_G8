@@ -1,0 +1,32 @@
+{
+  "grupo": {
+    "nombre": "Aurelion",
+    "camada": "12",
+    "integrantes": [
+      "Mishell Guano",
+      "Laura Becerra",
+      "Cristhian Mallorquin",
+      "Emanuel Acosta",
+      "Natalia Garzón",
+      "Nicolás Buitrago",
+      "Stevhen Quispe"
+    ]
+  },
+  "tema": "Análisis exploratorio y visual de los datos relacionales de ventas de un supermercado",
+  "problema": "El dueño de un supermercado registra la información de su comercio en cuatro tablas relacionadas: productos, clientes, ventas y detalle_ventas. Con el crecimiento del negocio, la interpretación manual de estos registros se vuelve lenta y difícil, dificultando la obtención de métricas clave para la toma de decisiones.",
+  "solucion": "Desarrollar un programa en Python que integre, analice y visualice los datos del supermercado. La herramienta permitirá identificar productos más vendidos, clientes destacados, tendencias de ventas y categorías más rentables, transformando los registros en información útil para decisiones estratégicas.",
+  "dataset": {
+    "fuente": "Archivos Excel transformados a CSV: clientes, ventas, detalle_ventas, productos.",
+    "objetivo": "Transformar datos brutos en información comprensible que permita detectar patrones y oportunidades.",
+    "tablas": ["Clientes", "Productos", "Ventas", "Detalle_ventas"]
+  },
+  "proceso": [
+    "Conversión de archivos Excel a CSV.",
+    "Lectura y validación de datos.",
+    "Preprocesamiento: limpieza, tipos de datos, duplicados y normalización.",
+    "EDA: análisis exploratorio de relaciones entre variables.",
+    "Identificación de métricas clave y generación de gráficos.",
+    "Interpretación de resultados y creación de dashboard interactivo.",
+    "Exportación de reportes finales en PDF, Power BI o Notebook."
+  ]
+}
