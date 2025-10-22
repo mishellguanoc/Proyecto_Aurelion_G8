@@ -2,7 +2,7 @@
 
 ## Descripción General
 
-Este proyecto es una aplicación interactiva en Python que presenta información sobre el Proyecto Aurelion, desarrollado por el Grupo #8 de la Camada #12. El objetivo es mostrar, de manera amigable, el propósito, problemática, solución y equipo detrás del proyecto, utilizando datos cargados desde un archivo JSON.
+Este proyecto es una aplicación interactiva en Python que presenta información sobre el Proyecto Aurelion, desarrollado por el Grupo #8 de la Camada #12, desarrollado dentro de la formacion de GUAYERD y con el respaldo de IBM SkillsBuild. El objetivo es mostrar, de manera amigable, el propósito, problemática, solución y equipo detrás del proyecto, utilizando datos cargados desde un archivo JSON.
 
 ---
 
