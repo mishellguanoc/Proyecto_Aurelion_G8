@@ -1,0 +1,10 @@
+# Librerías principales para análisis y visualización de datos
+pandas==2.3.3
+numpy==2.3.4
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Librerías adicionales recomendadas para notebooks y exportación
+openpyxl==3.1.5      # Para leer archivos Excel (.xlsx)
+jupyter==1.1.1       # Para ejecutar notebooks .ipynb
+notebook==7.2.2      # Interfaz moderna de Jupyter
