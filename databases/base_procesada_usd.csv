@@ -1,0 +1,344 @@
+id_venta,fecha,ciudad,medio_pago,categoria,nombre_producto,cantidad,precio_unitario,importe
+1,2024-06-19,Carlos Paz,tarjeta,Limpieza,Toallas Húmedas x50,1,2.07,2.07
+2,2024-03-17,Rio Cuarto,qr,Limpieza,Aceitunas Negras 200g,5,1.7,8.52
+2,2024-03-17,Rio Cuarto,qr,Alimentos,Helado Vainilla 1L,5,0.33,1.67
+2,2024-03-17,Rio Cuarto,qr,Limpieza,Fernet 750ml,2,2.89,5.78
+2,2024-03-17,Rio Cuarto,qr,Limpieza,Medialunas de Manteca,1,1.47,1.47
+2,2024-03-17,Rio Cuarto,qr,Alimentos,Hamburguesas Congeladas x4,4,1.72,6.89
+3,2024-01-13,Rio Cuarto,tarjeta,Alimentos,Yerba Mate Suave 1kg,2,2.76,5.52
+3,2024-01-13,Rio Cuarto,tarjeta,Limpieza,Pepsi 1.5L,2,3.54,7.08
+3,2024-01-13,Rio Cuarto,tarjeta,Alimentos,Jugo en Polvo Naranja,1,1.32,1.32
+4,2024-02-27,Mendiolaza,transferencia,Limpieza,Fanta Naranja 1.5L,2,1.45,2.89
+4,2024-02-27,Mendiolaza,transferencia,Alimentos,Bizcochos Salados,5,1.69,8.47
+5,2024-06-11,Rio Cuarto,tarjeta,Limpieza,Jugo en Polvo Limón,4,2.91,11.64
+6,2024-05-05,Mendiolaza,transferencia,Alimentos,Galletitas Vainilla,2,2.86,5.72
+6,2024-05-05,Mendiolaza,transferencia,Alimentos,Mix de Frutos Secos 200g,3,2.43,7.28
+6,2024-05-05,Mendiolaza,transferencia,Alimentos,Queso Untable 190g,1,1.3,1.3
+6,2024-05-05,Mendiolaza,transferencia,Alimentos,Chicle Menta,4,2.57,10.28
+7,2024-05-06,Alta Gracia,efectivo,Alimentos,Granola 250g,3,3.09,9.26
+8,2024-01-06,Villa Maria,transferencia,Alimentos,Lavandina 1L,5,1.18,5.92
+8,2024-01-06,Villa Maria,transferencia,Limpieza,Queso Rallado 150g,4,2.45,9.8
+8,2024-01-06,Villa Maria,transferencia,Limpieza,Vino Blanco 750ml,5,1.91,9.55
+9,2024-01-20,Cordoba,efectivo,Alimentos,Cerveza Rubia 1L,4,1.72,6.9
+10,2024-05-28,Rio Cuarto,qr,Limpieza,Dulce de Leche 400g,2,1.82,3.64
+10,2024-05-28,Rio Cuarto,qr,Limpieza,Trapo de Piso,4,3.45,13.82
+10,2024-05-28,Rio Cuarto,qr,Alimentos,Mermelada de Durazno 400g,3,2.27,6.82
+10,2024-05-28,Rio Cuarto,qr,Limpieza,Stevia 100 sobres,1,2.74,2.74
+11,2024-04-10,Rio Cuarto,qr,Alimentos,Té Verde 20 saquitos,1,1.7,1.7
+11,2024-04-10,Rio Cuarto,qr,Alimentos,Cerveza Rubia 1L,2,1.72,3.45
+11,2024-04-10,Rio Cuarto,qr,Limpieza,Papas Fritas Clásicas 100g,1,0.67,0.67
+12,2024-06-28,Cordoba,efectivo,Limpieza,Ron 700ml,2,2.76,5.52
+12,2024-06-28,Cordoba,efectivo,Limpieza,Azúcar 1kg,2,0.52,1.03
+12,2024-06-28,Cordoba,efectivo,Limpieza,Papel Higiénico x4,3,1.8,5.41
+12,2024-06-28,Cordoba,efectivo,Alimentos,Sopa Instantánea Pollo,3,1.19,3.58
+12,2024-06-28,Cordoba,efectivo,Limpieza,Mermelada de Frutilla 400g,4,1.13,4.51
+13,2024-01-24,Villa Maria,tarjeta,Alimentos,Sopa Instantánea Pollo,1,1.19,1.19
+13,2024-01-24,Villa Maria,tarjeta,Alimentos,Aceitunas Verdes 200g,3,1.79,5.38
+13,2024-01-24,Villa Maria,tarjeta,Alimentos,Té Verde 20 saquitos,1,1.7,1.7
+14,2024-04-18,Alta Gracia,qr,Limpieza,Dulce de Leche 400g,4,1.82,7.29
+14,2024-04-18,Alta Gracia,qr,Limpieza,Ron 700ml,5,2.76,13.79
+14,2024-04-18,Alta Gracia,qr,Limpieza,Mermelada de Frutilla 400g,3,1.13,3.38
+14,2024-04-18,Alta Gracia,qr,Alimentos,Limpiavidrios 500ml,1,0.62,0.62
+15,2024-06-27,Rio Cuarto,transferencia,Alimentos,Mermelada de Durazno 400g,3,2.27,6.82
+16,2024-04-12,Carlos Paz,efectivo,Alimentos,Barrita de Cereal 30g,5,3.15,15.76
+17,2024-02-17,Villa Maria,efectivo,Alimentos,Aceitunas Verdes 200g,5,1.79,8.97
+17,2024-02-17,Villa Maria,efectivo,Limpieza,Lentejas Secas 500g,5,2.16,10.8
+17,2024-02-17,Villa Maria,efectivo,Limpieza,Whisky 750ml,3,2.1,6.31
+18,2024-06-11,Carlos Paz,qr,Alimentos,Chocolate con Leche 100g,2,0.89,1.79
+18,2024-06-11,Carlos Paz,qr,Limpieza,Fanta Naranja 1.5L,5,1.45,7.23
+18,2024-06-11,Carlos Paz,qr,Limpieza,Galletitas Chocolate,2,0.93,1.86
+18,2024-06-11,Carlos Paz,qr,Alimentos,Leche Descremada 1L,3,1.81,5.42
+18,2024-06-11,Carlos Paz,qr,Limpieza,Medialunas de Manteca,5,1.47,7.36
+19,2024-06-11,Mendiolaza,efectivo,Limpieza,Mermelada de Frutilla 400g,2,1.13,2.25
+19,2024-06-11,Mendiolaza,efectivo,Limpieza,Desengrasante 500ml,3,2.02,6.07
+19,2024-06-11,Mendiolaza,efectivo,Alimentos,Granola 250g,3,3.09,9.26
+20,2024-01-13,Rio Cuarto,tarjeta,Limpieza,Chocolate Amargo 100g,3,1.59,4.77
+21,2024-06-19,Cordoba,transferencia,Limpieza,Pizza Congelada Muzzarella,5,3.05,15.25
+21,2024-06-19,Cordoba,transferencia,Alimentos,Barrita de Cereal 30g,1,3.15,3.15
+22,2024-05-08,Villa Maria,transferencia,Alimentos,Yerba Mate Suave 1kg,2,2.76,5.52
+22,2024-05-08,Villa Maria,transferencia,Limpieza,Papas Fritas Clásicas 100g,3,0.67,2.0
+22,2024-05-08,Villa Maria,transferencia,Limpieza,Galletitas Chocolate,4,0.93,3.72
+23,2024-05-16,Villa Maria,transferencia,Limpieza,Avena Instantánea 250g,4,2.81,11.25
+23,2024-05-16,Villa Maria,transferencia,Alimentos,Queso Untable 190g,4,1.3,5.21
+24,2024-06-14,Mendiolaza,tarjeta,Alimentos,Desodorante Aerosol,2,3.34,6.68
+24,2024-06-14,Mendiolaza,tarjeta,Limpieza,Helado Chocolate 1L,5,0.86,4.32
+25,2024-04-30,Carlos Paz,transferencia,Alimentos,Shampoo 400ml,1,1.0,1.0
+25,2024-04-30,Carlos Paz,transferencia,Alimentos,Mascarilla Capilar,5,1.13,5.63
+25,2024-04-30,Carlos Paz,transferencia,Limpieza,Ron 700ml,1,2.76,2.76
+26,2024-01-23,Rio Cuarto,efectivo,Alimentos,Hamburguesas Congeladas x4,2,1.72,3.44
+26,2024-01-23,Rio Cuarto,efectivo,Limpieza,Jugo en Polvo Limón,1,2.91,2.91
+27,2024-02-25,Carlos Paz,transferencia,Alimentos,Jugo de Manzana 1L,4,2.33,9.31
+27,2024-02-25,Carlos Paz,transferencia,Limpieza,Verduras Congeladas Mix,4,3.05,12.21
+28,2024-05-20,Rio Cuarto,qr,Limpieza,Whisky 750ml,1,2.1,2.1
+28,2024-05-20,Rio Cuarto,qr,Alimentos,Desodorante Aerosol,2,3.34,6.68
+28,2024-05-20,Rio Cuarto,qr,Limpieza,Ron 700ml,1,2.76,2.76
+28,2024-05-20,Rio Cuarto,qr,Limpieza,Queso Rallado 150g,2,2.45,4.9
+28,2024-05-20,Rio Cuarto,qr,Alimentos,Alfajor Simple,5,1.78,8.9
+29,2024-02-20,Rio Cuarto,qr,Limpieza,Caramelos Masticables,1,3.38,3.38
+29,2024-02-20,Rio Cuarto,qr,Limpieza,Dulce de Leche 400g,2,1.82,3.64
+29,2024-02-20,Rio Cuarto,qr,Alimentos,Vodka 700ml,4,0.36,1.45
+29,2024-02-20,Rio Cuarto,qr,Alimentos,Alfajor Simple,2,1.78,3.56
+29,2024-02-20,Rio Cuarto,qr,Limpieza,Cerveza Negra 1L,1,1.09,1.09
+30,2024-03-03,Alta Gracia,efectivo,Alimentos,Harina de Trigo 1kg,4,1.79,7.15
+30,2024-03-03,Alta Gracia,efectivo,Limpieza,Verduras Congeladas Mix,3,3.05,9.16
+30,2024-03-03,Alta Gracia,efectivo,Limpieza,Aceitunas Negras 200g,4,1.7,6.82
+30,2024-03-03,Alta Gracia,efectivo,Alimentos,Jugo de Manzana 1L,1,2.33,2.33
+31,2024-05-22,Mendiolaza,tarjeta,Limpieza,Crema Dental 90g,4,1.79,7.15
+31,2024-05-22,Mendiolaza,tarjeta,Limpieza,Toallas Húmedas x50,3,2.07,6.2
+31,2024-05-22,Mendiolaza,tarjeta,Limpieza,Queso Azul 150g,5,1.17,5.85
+32,2024-01-30,Villa Maria,efectivo,Limpieza,Ron 700ml,5,2.76,13.79
+32,2024-01-30,Villa Maria,efectivo,Alimentos,Lavandina 1L,4,1.18,4.74
+32,2024-01-30,Villa Maria,efectivo,Alimentos,Queso Cremoso 500g,3,3.44,10.32
+32,2024-01-30,Villa Maria,efectivo,Alimentos,Barrita de Cereal 30g,3,3.15,9.46
+33,2024-02-13,Villa Maria,efectivo,Alimentos,Garbanzos 500g,2,2.09,4.18
+33,2024-02-13,Villa Maria,efectivo,Limpieza,Pizza Congelada Muzzarella,4,3.05,12.2
+33,2024-02-13,Villa Maria,efectivo,Limpieza,Trapo de Piso,1,3.45,3.45
+33,2024-02-13,Villa Maria,efectivo,Alimentos,Desodorante Aerosol,2,3.34,6.68
+34,2024-01-13,Rio Cuarto,transferencia,Limpieza,Yerba Mate Intensa 1kg,1,3.48,3.48
+34,2024-01-13,Rio Cuarto,transferencia,Limpieza,Chocolate Amargo 100g,5,1.59,7.95
+35,2024-05-30,Rio Cuarto,efectivo,Alimentos,Cepillo de Dientes,3,1.52,4.57
+35,2024-05-30,Rio Cuarto,efectivo,Limpieza,Helado de Frutilla 1L,2,1.41,2.82
+35,2024-05-30,Rio Cuarto,efectivo,Limpieza,Caldo Concentrado Carne,5,1.83,9.15
+36,2024-06-25,Cordoba,tarjeta,Limpieza,Azúcar 1kg,4,0.52,2.07
+36,2024-06-25,Cordoba,tarjeta,Limpieza,Porotos Negros 500g,2,3.18,6.35
+37,2024-05-17,Rio Cuarto,qr,Limpieza,Queso Rallado 150g,3,2.45,7.35
+38,2024-05-29,Rio Cuarto,tarjeta,Limpieza,Stevia 100 sobres,5,2.74,13.69
+38,2024-05-29,Rio Cuarto,tarjeta,Limpieza,Leche Entera 1L,3,1.23,3.68
+38,2024-05-29,Rio Cuarto,tarjeta,Alimentos,Cerveza Rubia 1L,5,1.72,8.62
+38,2024-05-29,Rio Cuarto,tarjeta,Alimentos,Agua Mineral 500ml,3,3.4,10.2
+39,2024-03-05,Cordoba,efectivo,Limpieza,Arroz Largo Fino 1kg,4,2.12,8.48
+39,2024-03-05,Cordoba,efectivo,Limpieza,Medialunas de Manteca,2,1.47,2.95
+39,2024-03-05,Cordoba,efectivo,Limpieza,Caramelos Masticables,4,3.38,13.53
+39,2024-03-05,Cordoba,efectivo,Alimentos,Aceitunas Verdes 200g,4,1.79,7.17
+40,2024-05-13,Cordoba,efectivo,Limpieza,Arroz Largo Fino 1kg,2,2.12,4.24
+41,2024-03-08,Alta Gracia,tarjeta,Alimentos,Sal Fina 500g,1,1.24,1.24
+41,2024-03-08,Alta Gracia,tarjeta,Alimentos,Leche Descremada 1L,1,1.81,1.81
+42,2024-04-18,Alta Gracia,tarjeta,Alimentos,Garbanzos 500g,3,2.09,6.28
+42,2024-04-18,Alta Gracia,tarjeta,Alimentos,Papas Fritas Onduladas 100g,1,1.33,1.33
+42,2024-04-18,Alta Gracia,tarjeta,Alimentos,Gin 700ml,3,1.11,3.33
+43,2024-02-18,Rio Cuarto,efectivo,Alimentos,Coca Cola 1.5L,5,1.67,8.35
+43,2024-02-18,Rio Cuarto,efectivo,Alimentos,Harina de Trigo 1kg,2,1.79,3.58
+43,2024-02-18,Rio Cuarto,efectivo,Limpieza,Cerveza Negra 1L,2,1.09,2.18
+44,2024-02-21,Alta Gracia,efectivo,Limpieza,Porotos Negros 500g,1,3.18,3.18
+44,2024-02-21,Alta Gracia,efectivo,Alimentos,Garbanzos 500g,2,2.09,4.18
+44,2024-02-21,Alta Gracia,efectivo,Limpieza,Trapo de Piso,2,3.45,6.91
+45,2024-01-19,Cordoba,efectivo,Limpieza,Té Negro 20 saquitos,2,0.41,0.81
+45,2024-01-19,Cordoba,efectivo,Limpieza,Queso Rallado 150g,2,2.45,4.9
+45,2024-01-19,Cordoba,efectivo,Alimentos,Sopa Instantánea Pollo,4,1.19,4.78
+45,2024-01-19,Cordoba,efectivo,Limpieza,Desengrasante 500ml,1,2.02,2.02
+45,2024-01-19,Cordoba,efectivo,Limpieza,Detergente Líquido 750ml,2,1.84,3.68
+46,2024-03-25,Alta Gracia,tarjeta,Alimentos,Pan Lactal Integral,1,0.19,0.19
+47,2024-05-04,Rio Cuarto,transferencia,Alimentos,Salsa de Tomate 500g,5,0.63,3.16
+47,2024-05-04,Rio Cuarto,transferencia,Limpieza,Jugo de Naranja 1L,3,2.97,8.9
+48,2024-01-26,Cordoba,qr,Limpieza,Fernet 750ml,1,2.89,2.89
+48,2024-01-26,Cordoba,qr,Limpieza,Jabón de Tocador,5,1.13,5.67
+48,2024-01-26,Cordoba,qr,Alimentos,Servilletas x100,4,3.22,12.87
+49,2024-06-02,Cordoba,efectivo,Alimentos,Chicle Menta,2,2.57,5.14
+49,2024-06-02,Cordoba,efectivo,Alimentos,Pan Lactal Integral,4,0.19,0.77
+49,2024-06-02,Cordoba,efectivo,Alimentos,Chicle Menta,4,2.57,10.28
+49,2024-06-02,Cordoba,efectivo,Limpieza,Queso Rallado 150g,3,2.45,7.35
+49,2024-06-02,Cordoba,efectivo,Alimentos,Jugo en Polvo Naranja,3,1.32,3.96
+50,2024-01-09,Carlos Paz,transferencia,Limpieza,Yerba Mate Intensa 1kg,2,3.48,6.95
+50,2024-01-09,Carlos Paz,transferencia,Limpieza,Turrón 50g,5,0.36,1.79
+50,2024-01-09,Carlos Paz,transferencia,Limpieza,Caramelos Masticables,5,3.38,16.91
+50,2024-01-09,Carlos Paz,transferencia,Limpieza,Chocolate Amargo 100g,3,1.59,4.77
+50,2024-01-09,Carlos Paz,transferencia,Alimentos,Desodorante Aerosol,4,3.34,13.35
+51,2024-02-18,Alta Gracia,efectivo,Alimentos,Mix de Frutos Secos 200g,1,2.43,2.43
+52,2024-05-10,Cordoba,tarjeta,Alimentos,Queso Untable 190g,2,1.3,2.6
+52,2024-05-10,Cordoba,tarjeta,Alimentos,Yerba Mate Suave 1kg,4,2.76,11.04
+52,2024-05-10,Cordoba,tarjeta,Alimentos,Aceitunas Verdes 200g,5,1.79,8.97
+52,2024-05-10,Cordoba,tarjeta,Limpieza,Mermelada de Frutilla 400g,3,1.13,3.38
+53,2024-01-25,Rio Cuarto,tarjeta,Limpieza,Papas Fritas Clásicas 100g,1,0.67,0.67
+54,2024-03-26,Carlos Paz,tarjeta,Alimentos,Cerveza Rubia 1L,1,1.72,1.72
+54,2024-03-26,Carlos Paz,tarjeta,Limpieza,Queso Rallado 150g,2,2.45,4.9
+54,2024-03-26,Carlos Paz,tarjeta,Alimentos,Desodorante Aerosol,3,3.34,10.01
+54,2024-03-26,Carlos Paz,tarjeta,Limpieza,Energética Nitro 500ml,3,3.0,9.01
+55,2024-01-04,Cordoba,qr,Alimentos,Helado Vainilla 1L,4,0.33,1.34
+56,2024-06-14,Cordoba,qr,Limpieza,Queso Rallado 150g,5,2.45,12.26
+57,2024-01-10,Villa Maria,efectivo,Alimentos,Mix de Frutos Secos 200g,3,2.43,7.28
+57,2024-01-10,Villa Maria,efectivo,Alimentos,Aceite de Girasol 1L,4,0.61,2.45
+57,2024-01-10,Villa Maria,efectivo,Alimentos,Yerba Mate Suave 1kg,5,2.76,13.8
+57,2024-01-10,Villa Maria,efectivo,Limpieza,Pizza Congelada Muzzarella,3,3.05,9.15
+57,2024-01-10,Villa Maria,efectivo,Limpieza,Desengrasante 500ml,4,2.02,8.09
+58,2024-02-04,Cordoba,transferencia,Alimentos,Salsa de Tomate 500g,2,0.63,1.26
+58,2024-02-04,Cordoba,transferencia,Alimentos,Café Molido 250g,1,1.46,1.46
+59,2024-04-28,Carlos Paz,tarjeta,Alimentos,Mix de Frutos Secos 200g,1,2.43,2.43
+59,2024-04-28,Carlos Paz,tarjeta,Limpieza,Energética Nitro 500ml,2,3.0,6.0
+59,2024-04-28,Carlos Paz,tarjeta,Alimentos,Limpiavidrios 500ml,5,0.62,3.1
+60,2024-04-04,Carlos Paz,transferencia,Alimentos,Salsa de Tomate 500g,1,0.63,0.63
+60,2024-04-04,Carlos Paz,transferencia,Limpieza,Desengrasante 500ml,3,2.02,6.07
+60,2024-04-04,Carlos Paz,transferencia,Alimentos,Leche Descremada 1L,1,1.81,1.81
+60,2024-04-04,Carlos Paz,transferencia,Alimentos,Pan Lactal Integral,2,0.19,0.39
+60,2024-04-04,Carlos Paz,transferencia,Alimentos,Desodorante Aerosol,4,3.34,13.35
+61,2024-06-01,Rio Cuarto,efectivo,Alimentos,Yerba Mate Suave 1kg,3,2.76,8.28
+61,2024-06-01,Rio Cuarto,efectivo,Alimentos,Manteca 200g,3,2.31,6.94
+62,2024-05-01,Cordoba,transferencia,Alimentos,Garbanzos 500g,4,2.09,8.37
+62,2024-05-01,Cordoba,transferencia,Alimentos,Mascarilla Capilar,3,1.13,3.38
+63,2024-06-19,Rio Cuarto,tarjeta,Limpieza,Energética Nitro 500ml,5,3.0,15.01
+63,2024-06-19,Rio Cuarto,tarjeta,Limpieza,Pepsi 1.5L,2,3.54,7.08
+63,2024-06-19,Rio Cuarto,tarjeta,Limpieza,Fernet 750ml,3,2.89,8.67
+63,2024-06-19,Rio Cuarto,tarjeta,Alimentos,Fideos Spaghetti 500g,4,0.53,2.12
+64,2024-03-07,Rio Cuarto,qr,Limpieza,Fanta Naranja 1.5L,2,1.45,2.89
+64,2024-03-07,Rio Cuarto,qr,Alimentos,Aceite de Girasol 1L,2,0.61,1.22
+65,2024-04-30,Alta Gracia,qr,Alimentos,Empanadas Congeladas,4,3.4,13.6
+65,2024-04-30,Alta Gracia,qr,Limpieza,Medialunas de Manteca,3,1.47,4.42
+65,2024-04-30,Alta Gracia,qr,Limpieza,Mermelada de Frutilla 400g,5,1.13,5.64
+65,2024-04-30,Alta Gracia,qr,Limpieza,Dulce de Leche 400g,4,1.82,7.29
+66,2024-03-14,Rio Cuarto,qr,Limpieza,Yogur Natural 200g,3,3.28,9.85
+67,2024-03-21,Villa Maria,efectivo,Alimentos,Lavandina 1L,1,1.18,1.18
+67,2024-03-21,Villa Maria,efectivo,Limpieza,Energética Nitro 500ml,2,3.0,6.0
+68,2024-06-28,Rio Cuarto,qr,Limpieza,Hilo Dental,4,1.01,4.04
+69,2024-01-06,Alta Gracia,qr,Limpieza,Pizza Congelada Muzzarella,4,3.05,12.2
+69,2024-01-06,Alta Gracia,qr,Limpieza,Whisky 750ml,3,2.1,6.31
+70,2024-02-02,Alta Gracia,transferencia,Limpieza,Cerveza Negra 1L,3,1.09,3.27
+70,2024-02-02,Alta Gracia,transferencia,Alimentos,Caldo Concentrado Verdura,4,0.71,2.86
+70,2024-02-02,Alta Gracia,transferencia,Limpieza,Mermelada de Frutilla 400g,3,1.13,3.38
+71,2024-06-02,Rio Cuarto,qr,Alimentos,Café Molido 250g,3,1.46,4.38
+71,2024-06-02,Rio Cuarto,qr,Alimentos,Hamburguesas Congeladas x4,4,1.72,6.89
+71,2024-06-02,Rio Cuarto,qr,Limpieza,Trapo de Piso,4,3.45,13.82
+71,2024-06-02,Rio Cuarto,qr,Limpieza,Crema Dental 90g,1,1.79,1.79
+72,2024-02-17,Alta Gracia,qr,Limpieza,Hilo Dental,3,1.01,3.03
+72,2024-02-17,Alta Gracia,qr,Alimentos,Aceite de Girasol 1L,4,0.61,2.45
+72,2024-02-17,Alta Gracia,qr,Alimentos,Sal Fina 500g,2,1.24,2.48
+73,2024-05-16,Alta Gracia,transferencia,Limpieza,Papas Fritas Clásicas 100g,1,0.67,0.67
+73,2024-05-16,Alta Gracia,transferencia,Limpieza,Galletitas Chocolate,3,0.93,2.79
+73,2024-05-16,Alta Gracia,transferencia,Alimentos,Manteca 200g,1,2.31,2.31
+74,2024-04-26,Rio Cuarto,efectivo,Limpieza,Chocolate Amargo 100g,3,1.59,4.77
+74,2024-04-26,Rio Cuarto,efectivo,Limpieza,Leche Entera 1L,2,1.23,2.45
+74,2024-04-26,Rio Cuarto,efectivo,Alimentos,Shampoo 400ml,2,1.0,2.0
+75,2024-05-23,Rio Cuarto,qr,Alimentos,Sprite 1.5L,4,3.53,14.13
+75,2024-05-23,Rio Cuarto,qr,Limpieza,Pepsi 1.5L,5,3.54,17.7
+76,2024-05-15,Rio Cuarto,tarjeta,Limpieza,Medialunas de Manteca,4,1.47,5.89
+76,2024-05-15,Rio Cuarto,tarjeta,Alimentos,Bizcochos Salados,4,1.69,6.78
+76,2024-05-15,Rio Cuarto,tarjeta,Limpieza,Galletitas Chocolate,1,0.93,0.93
+76,2024-05-15,Rio Cuarto,tarjeta,Alimentos,Café Molido 250g,2,1.46,2.92
+77,2024-05-26,Mendiolaza,tarjeta,Alimentos,Lavandina 1L,2,1.18,2.37
+77,2024-05-26,Mendiolaza,tarjeta,Alimentos,Aceite de Girasol 1L,1,0.61,0.61
+77,2024-05-26,Mendiolaza,tarjeta,Limpieza,Turrón 50g,5,0.36,1.79
+77,2024-05-26,Mendiolaza,tarjeta,Limpieza,Desengrasante 500ml,2,2.02,4.05
+77,2024-05-26,Mendiolaza,tarjeta,Alimentos,Helado Vainilla 1L,2,0.33,0.67
+78,2024-04-29,Alta Gracia,qr,Alimentos,Mermelada de Durazno 400g,3,2.27,6.82
+78,2024-04-29,Alta Gracia,qr,Alimentos,Hamburguesas Congeladas x4,5,1.72,8.61
+78,2024-04-29,Alta Gracia,qr,Alimentos,Queso Cremoso 500g,2,3.44,6.88
+78,2024-04-29,Alta Gracia,qr,Alimentos,Jugo en Polvo Naranja,1,1.32,1.32
+78,2024-04-29,Alta Gracia,qr,Alimentos,Helado Vainilla 1L,2,0.33,0.67
+79,2024-06-06,Rio Cuarto,qr,Alimentos,Aceitunas Verdes 200g,2,1.79,3.59
+79,2024-06-06,Rio Cuarto,qr,Limpieza,Papel Higiénico x4,2,1.8,3.6
+80,2024-03-25,Alta Gracia,efectivo,Alimentos,Helado Vainilla 1L,5,0.33,1.67
+80,2024-03-25,Alta Gracia,efectivo,Limpieza,Maní Salado 200g,3,3.47,10.41
+80,2024-03-25,Alta Gracia,efectivo,Alimentos,Aceite de Girasol 1L,5,0.61,3.06
+81,2024-03-09,Rio Cuarto,transferencia,Limpieza,Yerba Mate Intensa 1kg,2,3.48,6.95
+82,2024-01-25,Mendiolaza,tarjeta,Limpieza,Mermelada de Frutilla 400g,1,1.13,1.13
+82,2024-01-25,Mendiolaza,tarjeta,Limpieza,Papas Fritas Clásicas 100g,2,0.67,1.33
+82,2024-01-25,Mendiolaza,tarjeta,Alimentos,Papas Fritas Onduladas 100g,5,1.33,6.65
+82,2024-01-25,Mendiolaza,tarjeta,Limpieza,Aceitunas Negras 200g,2,1.7,3.41
+83,2024-05-28,Mendiolaza,efectivo,Alimentos,Agua Mineral 500ml,2,3.4,6.8
+83,2024-05-28,Mendiolaza,efectivo,Limpieza,Alfajor Triple,2,0.71,1.42
+83,2024-05-28,Mendiolaza,efectivo,Alimentos,Gin 700ml,5,1.11,5.55
+83,2024-05-28,Mendiolaza,efectivo,Alimentos,Sal Fina 500g,2,1.24,2.48
+84,2024-01-02,Cordoba,efectivo,Alimentos,Queso Untable 190g,5,1.3,6.51
+84,2024-01-02,Cordoba,efectivo,Limpieza,Pizza Congelada Muzzarella,4,3.05,12.2
+85,2024-01-23,Alta Gracia,transferencia,Limpieza,Chocolate Amargo 100g,4,1.59,6.36
+85,2024-01-23,Alta Gracia,transferencia,Limpieza,Helado de Frutilla 1L,2,1.41,2.82
+86,2024-01-10,Rio Cuarto,efectivo,Limpieza,Cerveza Negra 1L,2,1.09,2.18
+86,2024-01-10,Rio Cuarto,efectivo,Alimentos,Coca Cola 1.5L,4,1.67,6.68
+86,2024-01-10,Rio Cuarto,efectivo,Alimentos,Té Verde 20 saquitos,5,1.7,8.48
+86,2024-01-10,Rio Cuarto,efectivo,Alimentos,Aceite de Girasol 1L,3,0.61,1.84
+87,2024-04-20,Cordoba,qr,Alimentos,Lavandina 1L,2,1.18,2.37
+87,2024-04-20,Cordoba,qr,Limpieza,Jugo en Polvo Limón,2,2.91,5.82
+88,2024-06-21,Mendiolaza,efectivo,Alimentos,Jugo de Manzana 1L,5,2.33,11.63
+88,2024-06-21,Mendiolaza,efectivo,Alimentos,Lavandina 1L,5,1.18,5.92
+88,2024-06-21,Mendiolaza,efectivo,Limpieza,Energética Nitro 500ml,4,3.0,12.01
+89,2024-01-18,Villa Maria,tarjeta,Limpieza,Ron 700ml,2,2.76,5.52
+90,2024-01-08,Alta Gracia,qr,Alimentos,Hamburguesas Congeladas x4,4,1.72,6.89
+90,2024-01-08,Alta Gracia,qr,Limpieza,Jugo de Naranja 1L,2,2.97,5.94
+91,2024-02-19,Alta Gracia,efectivo,Alimentos,Servilletas x100,3,3.22,9.65
+92,2024-02-09,Alta Gracia,transferencia,Limpieza,Yerba Mate Intensa 1kg,2,3.48,6.95
+92,2024-02-09,Alta Gracia,transferencia,Alimentos,Salsa de Tomate 500g,4,0.63,2.53
+93,2024-01-29,Rio Cuarto,efectivo,Limpieza,Helado de Frutilla 1L,4,1.41,5.64
+93,2024-01-29,Rio Cuarto,efectivo,Limpieza,Cerveza Negra 1L,3,1.09,3.27
+93,2024-01-29,Rio Cuarto,efectivo,Alimentos,Desodorante Aerosol,3,3.34,10.01
+94,2024-03-06,Alta Gracia,qr,Limpieza,Galletitas Chocolate,1,0.93,0.93
+94,2024-03-06,Alta Gracia,qr,Limpieza,Jugo en Polvo Limón,5,2.91,14.55
+94,2024-03-06,Alta Gracia,qr,Limpieza,Desengrasante 500ml,2,2.02,4.05
+95,2024-02-25,Alta Gracia,qr,Limpieza,Ron 700ml,5,2.76,13.79
+95,2024-02-25,Alta Gracia,qr,Limpieza,Té Negro 20 saquitos,1,0.41,0.41
+96,2024-02-23,Rio Cuarto,tarjeta,Alimentos,Aceitunas Verdes 200g,3,1.79,5.38
+96,2024-02-23,Rio Cuarto,tarjeta,Limpieza,Vino Blanco 750ml,1,1.91,1.91
+96,2024-02-23,Rio Cuarto,tarjeta,Alimentos,Café Molido 250g,2,1.46,2.92
+96,2024-02-23,Rio Cuarto,tarjeta,Limpieza,Azúcar 1kg,3,0.52,1.55
+97,2024-06-16,Alta Gracia,efectivo,Alimentos,Chicle Menta,5,2.57,12.85
+97,2024-06-16,Alta Gracia,efectivo,Limpieza,Dulce de Leche 400g,1,1.82,1.82
+97,2024-06-16,Alta Gracia,efectivo,Limpieza,Fanta Naranja 1.5L,3,1.45,4.34
+98,2024-01-12,Mendiolaza,transferencia,Limpieza,Papas Fritas Clásicas 100g,4,0.67,2.66
+98,2024-01-12,Mendiolaza,transferencia,Alimentos,Miel Pura 250g,1,3.55,3.55
+98,2024-01-12,Mendiolaza,transferencia,Alimentos,Papas Fritas Onduladas 100g,1,1.33,1.33
+98,2024-01-12,Mendiolaza,transferencia,Alimentos,Queso Untable 190g,3,1.3,3.91
+99,2024-03-13,Rio Cuarto,transferencia,Limpieza,Helado Chocolate 1L,5,0.86,4.32
+100,2024-06-08,Rio Cuarto,qr,Alimentos,Té Verde 20 saquitos,3,1.7,5.09
+100,2024-06-08,Rio Cuarto,qr,Limpieza,Queso Rallado 150g,4,2.45,9.8
+100,2024-06-08,Rio Cuarto,qr,Limpieza,Caramelos Masticables,2,3.38,6.76
+100,2024-06-08,Rio Cuarto,qr,Alimentos,Servilletas x100,1,3.22,3.22
+100,2024-06-08,Rio Cuarto,qr,Alimentos,Yerba Mate Suave 1kg,4,2.76,11.04
+101,2024-03-28,Cordoba,efectivo,Limpieza,Turrón 50g,4,0.36,1.43
+102,2024-03-29,Carlos Paz,efectivo,Limpieza,Verduras Congeladas Mix,3,3.05,9.16
+102,2024-03-29,Carlos Paz,efectivo,Limpieza,Dulce de Leche 400g,3,1.82,5.46
+103,2024-03-11,Alta Gracia,efectivo,Alimentos,Hamburguesas Congeladas x4,5,1.72,8.61
+103,2024-03-11,Alta Gracia,efectivo,Alimentos,Salsa de Tomate 500g,5,0.63,3.16
+103,2024-03-11,Alta Gracia,efectivo,Limpieza,Turrón 50g,1,0.36,0.36
+103,2024-03-11,Alta Gracia,efectivo,Limpieza,Fernet 750ml,1,2.89,2.89
+104,2024-06-17,Cordoba,qr,Alimentos,Mascarilla Capilar,2,1.13,2.25
+104,2024-06-17,Cordoba,qr,Limpieza,Vino Blanco 750ml,3,1.91,5.73
+104,2024-06-17,Cordoba,qr,Limpieza,Vino Blanco 750ml,5,1.91,9.55
+105,2024-02-06,Carlos Paz,transferencia,Alimentos,Té Verde 20 saquitos,2,1.7,3.39
+105,2024-02-06,Carlos Paz,transferencia,Limpieza,Fanta Naranja 1.5L,4,1.45,5.79
+105,2024-02-06,Carlos Paz,transferencia,Limpieza,Caramelos Masticables,2,3.38,6.76
+105,2024-02-06,Carlos Paz,transferencia,Limpieza,Aceitunas Negras 200g,4,1.7,6.82
+105,2024-02-06,Carlos Paz,transferencia,Alimentos,Salsa de Tomate 500g,5,0.63,3.16
+106,2024-03-24,Alta Gracia,transferencia,Limpieza,Caldo Concentrado Carne,3,1.83,5.49
+107,2024-05-21,Carlos Paz,efectivo,Alimentos,Jugo de Manzana 1L,4,2.33,9.31
+107,2024-05-21,Carlos Paz,efectivo,Alimentos,Café Molido 250g,2,1.46,2.92
+107,2024-05-21,Carlos Paz,efectivo,Limpieza,Té Negro 20 saquitos,4,0.41,1.62
+107,2024-05-21,Carlos Paz,efectivo,Alimentos,Agua Mineral 500ml,4,3.4,13.6
+108,2024-03-25,Carlos Paz,tarjeta,Limpieza,Toallas Húmedas x50,4,2.07,8.26
+109,2024-06-04,Villa Maria,transferencia,Limpieza,Queso Rallado 150g,1,2.45,2.45
+109,2024-06-04,Villa Maria,transferencia,Limpieza,Whisky 750ml,1,2.1,2.1
+109,2024-06-04,Villa Maria,transferencia,Limpieza,Pan Lactal Blanco,2,1.12,2.24
+109,2024-06-04,Villa Maria,transferencia,Limpieza,Arroz Largo Fino 1kg,5,2.12,10.6
+110,2024-05-19,Alta Gracia,efectivo,Limpieza,Jugo de Naranja 1L,1,2.97,2.97
+110,2024-05-19,Alta Gracia,efectivo,Alimentos,Chicle Menta,3,2.57,7.71
+110,2024-05-19,Alta Gracia,efectivo,Limpieza,Jugo de Naranja 1L,5,2.97,14.84
+111,2024-02-12,Cordoba,efectivo,Alimentos,Limpiavidrios 500ml,4,0.62,2.48
+111,2024-02-12,Cordoba,efectivo,Alimentos,Cepillo de Dientes,3,1.52,4.57
+111,2024-02-12,Cordoba,efectivo,Limpieza,Pan Lactal Blanco,2,1.12,2.24
+111,2024-02-12,Cordoba,efectivo,Alimentos,Bizcochos Salados,4,1.69,6.78
+112,2024-01-19,Cordoba,tarjeta,Alimentos,Shampoo 400ml,1,1.0,1.0
+112,2024-01-19,Cordoba,tarjeta,Alimentos,Pan Lactal Integral,4,0.19,0.77
+112,2024-01-19,Cordoba,tarjeta,Alimentos,Salsa de Tomate 500g,5,0.63,3.16
+112,2024-01-19,Cordoba,tarjeta,Alimentos,Té Verde 20 saquitos,2,1.7,3.39
+112,2024-01-19,Cordoba,tarjeta,Alimentos,Chicle Menta,1,2.57,2.57
+113,2024-03-08,Cordoba,transferencia,Alimentos,Lavandina 1L,2,1.18,2.37
+113,2024-03-08,Cordoba,transferencia,Limpieza,Crema Dental 90g,3,1.79,5.36
+114,2024-05-05,Rio Cuarto,qr,Limpieza,Energética Nitro 500ml,1,3.0,3.0
+114,2024-05-05,Rio Cuarto,qr,Limpieza,Queso Azul 150g,1,1.17,1.17
+114,2024-05-05,Rio Cuarto,qr,Limpieza,Yerba Mate Intensa 1kg,1,3.48,3.48
+114,2024-05-05,Rio Cuarto,qr,Alimentos,Shampoo 400ml,5,1.0,5.01
+114,2024-05-05,Rio Cuarto,qr,Limpieza,Crema Dental 90g,4,1.79,7.15
+115,2024-02-16,Rio Cuarto,transferencia,Alimentos,Queso Cremoso 500g,4,3.44,13.76
+115,2024-02-16,Rio Cuarto,transferencia,Alimentos,Limpiavidrios 500ml,5,0.62,3.1
+115,2024-02-16,Rio Cuarto,transferencia,Alimentos,Mascarilla Capilar,4,1.13,4.5
+115,2024-02-16,Rio Cuarto,transferencia,Limpieza,Queso Azul 150g,2,1.17,2.34
+116,2024-03-18,Rio Cuarto,qr,Alimentos,Cerveza Rubia 1L,1,1.72,1.72
+116,2024-03-18,Rio Cuarto,qr,Alimentos,Barrita de Cereal 30g,2,3.15,6.31
+116,2024-03-18,Rio Cuarto,qr,Limpieza,Vinagre de Alcohol 500ml,4,0.85,3.4
+116,2024-03-18,Rio Cuarto,qr,Limpieza,Jabón de Tocador,5,1.13,5.67
+116,2024-03-18,Rio Cuarto,qr,Limpieza,Toallas Húmedas x50,4,2.07,8.26
+117,2024-03-14,Cordoba,tarjeta,Alimentos,Vino Tinto Malbec 750ml,4,3.36,13.43
+117,2024-03-14,Cordoba,tarjeta,Alimentos,Miel Pura 250g,2,3.55,7.09
+118,2024-02-09,Cordoba,efectivo,Limpieza,Vino Blanco 750ml,5,1.91,9.55
+118,2024-02-09,Cordoba,efectivo,Limpieza,Vino Blanco 750ml,3,1.91,5.73
+118,2024-02-09,Cordoba,efectivo,Limpieza,Fernet 750ml,2,2.89,5.78
+118,2024-02-09,Cordoba,efectivo,Alimentos,Cepillo de Dientes,3,1.52,4.57
+118,2024-02-09,Cordoba,efectivo,Limpieza,Azúcar 1kg,2,0.52,1.03
+119,2024-02-07,Rio Cuarto,qr,Alimentos,Fideos Spaghetti 500g,5,0.53,2.65
+120,2024-04-21,Cordoba,tarjeta,Limpieza,Pan Lactal Blanco,5,1.12,5.59
